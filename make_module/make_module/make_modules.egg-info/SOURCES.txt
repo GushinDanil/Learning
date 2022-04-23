@@ -1,0 +1,6 @@
+make_module.py
+setup.py
+make_modules.egg-info/PKG-INFO
+make_modules.egg-info/SOURCES.txt
+make_modules.egg-info/dependency_links.txt
+make_modules.egg-info/top_level.txt

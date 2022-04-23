@@ -1,0 +1,33 @@
+/* родитель */
+
+
+/* flex-контейнер */
+.block__row{
+    min-height: 100% ;
+    border: 10px solid #ece89d;
+    display: flex;
+    flex-direction: column;
+}
+
+/* flex-элемент */
+.block__element{
+
+    border: 5px solid #5e5373;
+}
+
+/* flex-элемент №3 */
+.block__element_1{
+
+    flex:   1  0 auto;
+}
+/* flex-элемент №4 */
+.block__element_2{
+
+}
+
+/* контент */
+.block__content{
+
+    background-color: #18b5a4;
+    /* плюс прочие стили для текста, отступы */
+}

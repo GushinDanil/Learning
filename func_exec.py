@@ -1,0 +1,1 @@
+exec(open('panic.py').read())
